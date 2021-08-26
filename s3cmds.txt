@@ -1,0 +1,11 @@
+1) aws  s3  ls - Lists the contents of the s3 bucket created in AWS console
+
+2) aws   s3  ls  s3:// <bucketname> -list the contents of specified buckets in s3
+
+3) aws  s3  cp  <s3://bucketname/file>   <destination dir> - download files form s3 bucket to Linux directories
+
+4) aws  s3  cp    <source dir>    <s3://bucketname/file> - upload files form Linux to s3 buckets
+
+5) aws  s3  mb  <bucketname> -creates a new bucket in s3
+
+6) aws  s3  rb  <bucketname> - Removes bucket from s3 provided it is empty
