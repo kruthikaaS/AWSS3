@@ -1,1 +1,4 @@
-this trail file 1 was modified in master branch
+This trail file 1 was modified in master branch
+
+This trial file 1 has been modified in develop branch
+
