@@ -1,1 +1,2 @@
-This is trial filr 2
+This is trial file 2
+This file was modified in the git hub console.
