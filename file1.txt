@@ -1,0 +1,2 @@
+This file was created in github portal in the develop branch of S3Folder repository.
+This was created to do the pull merge request in github console.
